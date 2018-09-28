@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/microservicecloud/microservicecloud.iml" filepath="$PROJECT_DIR$/../springcloud/microservicecloud/microservicecloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/microservicecloud/microservicecloud-consumer-dept-80/microservicecloud-consumer-dept-80.iml" filepath="$PROJECT_DIR$/../springcloud/microservicecloud/microservicecloud-consumer-dept-80/microservicecloud-consumer-dept-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/microservicecloud/microservicecloud-provider-dept-8001/microservicecloud-provider-dept-8001.iml" filepath="$PROJECT_DIR$/../springcloud/microservicecloud/microservicecloud-provider-dept-8001/microservicecloud-provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/microservicecloud/microservicecloudapi/microservicecloudapi.iml" filepath="$PROJECT_DIR$/../springcloud/microservicecloud/microservicecloudapi/microservicecloudapi.iml" />
+    </modules>
+  </component>
+</project>
