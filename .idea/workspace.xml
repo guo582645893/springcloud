@@ -6,7 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfc47aca-880e-49a6-b1de-c9df65e93ffa" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloud/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../springcloud/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/microservicecloud/microservicecloud.iml" afterPath="$PROJECT_DIR$/../springcloud/microservicecloud/microservicecloud.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/microservicecloud/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloud/microservicecloudapi/target/" />
@@ -397,7 +398,7 @@
       <workItem from="1537788553079" duration="8943000" />
       <workItem from="1537883130326" duration="1223000" />
       <workItem from="1538032591966" duration="4981000" />
-      <workItem from="1538131509683" duration="6419000" />
+      <workItem from="1538131509683" duration="6459000" />
     </task>
     <task id="LOCAL-00001" summary="idea整合测试git">
       <created>1538147662297</created>
@@ -420,11 +421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538147881695</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="idea整合测试git">
+      <created>1538147915768</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538147915768</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25637000" />
+    <option name="totallyTimeSpent" value="25677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="231" y="55" width="1473" height="915" extended-state="0" />
@@ -899,8 +907,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../springcloud/microservicecloud/microservicecloud.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding />
         </state>
       </provider>
